@@ -1,613 +1,441 @@
-<!--
-  GitHub Profile README
-  Janardhan Thrishank Singumahanthi
-  Focus: Artificial Intelligence • Machine Learning • Software Development
--->
-
 <div align="center">
 
-<!-- ===================================================== -->
-<!-- HEADER -->
-<!-- ===================================================== -->
+<h1>JANARDHAN THRISHANK SINGUMAHANTHI</h1>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=220&section=header&text=Janardhan%20Thrishank%20Singumahanthi&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descAlignY=58&descSize=17&animation=fadeIn"
-  width="100%"
-/>
+<h3>Aspiring Machine Learning Engineer</h3>
+
+<p>
+Python · Machine Learning · SQL · Data Analysis
+</p>
+
+<p>
+Building practical machine learning systems and intelligent applications with Python, data, and modern AI technologies.
+</p>
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Janardhan+Thrishank+Singumahanthi+%F0%9F%91%8B;Aspiring+Machine+Learning+Engineer;Building+Practical+AI+%26+ML+Solutions;Python+%7C+Machine+Learning+%7C+SQL;AI-Powered+Applications+%7C+Cloud+%7C+Flask"
-  alt="Typing SVG"
-/>
-
-<br><br>
-
-<a href="https://linkedin.com/in/janardhan-singumahanthi">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"
-    alt="LinkedIn"
-  />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;
-
-<a href="mailto:janardhanthrisank123@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"
-    alt="Email"
-  />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF">
 </a>
 
-&nbsp;
-
-<a href="https://github.com/JanardhanThrishankSingumahanthi">
-  <img
-    src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"
-    alt="GitHub"
-  />
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
 </a>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=JanardhanThrishankSingumahanthi&style=for-the-badge&color=1E3A5F&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
 
 </div>
 
----
+<br>
 
-# 👨‍💻 About Me
+<hr>
 
-I am a **final-year B.Tech Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning** at Ramachandra College of Engineering, Eluru.
+<h2>ABOUT ME</h2>
 
-My primary focus is on building **practical machine learning solutions and AI-powered applications**, supported by a strong foundation in Python, data analysis, SQL, and software development.
+<p>
+I am a Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning, focused on developing practical solutions using machine learning, data analysis, and Python.
+</p>
 
-### 🎯 Professional Focus
+<ul>
+<li>B.Tech — Computer Science & Engineering (AI & ML)</li>
+<li>Focused on Machine Learning and Artificial Intelligence</li>
+<li>Primary programming language: Python</li>
+<li>Interested in Data Analysis and Predictive Modeling</li>
+<li>Building ML-powered web applications with Flask</li>
+<li>Interested in solving real-world problems using intelligent systems</li>
+</ul>
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🧠 **Applied Machine Learning**
-- 📊 **Data Analysis & Model Evaluation**
-- ✨ **Generative & Agentic AI**
-- ☁️ **Cloud-based AI/ML**
-- 🌐 **AI-powered Web Applications**
+<hr>
 
-### 💡 What I Work With
+<h2>TECHNICAL ARSENAL</h2>
 
-`Python` · `Machine Learning` · `Scikit-learn` · `Pandas` · `NumPy` · `SQL` · `Flask` · `MySQL` · `AWS` · `Git`
-
-### 🚀 Career Goal
-
-**Machine Learning Engineer**
-
----
-
-# 🧠 AI & Machine Learning
+<h3>PROGRAMMING LANGUAGES</h3>
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="60">
+<img src="https://skillicons.dev/icons?i=java" height="60">
+<img src="https://skillicons.dev/icons?i=mysql" height="60">
+
+<p>
+Python &nbsp; • &nbsp; Java &nbsp; • &nbsp; SQL
+</p>
+
+</div>
+
+<br>
+
+<h3>MACHINE LEARNING & DATA</h3>
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48">
+
+<p>
+Scikit-learn &nbsp; • &nbsp; Pandas &nbsp; • &nbsp; NumPy &nbsp; • &nbsp; Matplotlib
+</p>
+
+</div>
+
+<br>
+
+<h3>WEB & BACKEND</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,js" height="48">
+
+<p>
+Flask &nbsp; • &nbsp; HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript
+</p>
+
+</div>
+
+<br>
+
+<h3>DATABASE</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="48">
+
+<p>
+MySQL &nbsp; • &nbsp; Database Management &nbsp; • &nbsp; SQL Queries
+</p>
+
+</div>
+
+<br>
+
+<h3>TOOLS & PLATFORMS</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,jupyter,androidstudio" height="48">
+
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="48">
+
+<p>
+Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; Jupyter Notebook &nbsp; • &nbsp; Google Colab &nbsp; • &nbsp; Android Studio
+</p>
+
+</div>
+
+<hr>
+
+<h2>FEATURED PROJECTS</h2>
 
 <table>
 <tr>
 
-<td align="center" width="180">
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+<h3>🏠 House Price Prediction</h3>
+
+<p>
+Machine learning regression system designed to predict house prices using data preprocessing, feature analysis, model training, and evaluation.
+</p>
+
+<p><strong>Technology Stack</strong></p>
+
+<p>
+<code>Python</code>
+<code>Scikit-learn</code>
+<code>Pandas</code>
+<code>NumPy</code>
+<code>Matplotlib</code>
+</p>
 
 <br>
 
-<b>Artificial Intelligence</b>
-
-<br>
-
-<sub>Applied AI Solutions</sub>
+<a href="YOUR_HOUSE_PRICE_PROJECT_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td align="center" width="180">
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/brain.png" width="55"/>
+<h3>♻️ Eco-Friendly Recommendation</h3>
+
+<p>
+Web-based recommendation application designed to help users discover eco-friendly products through an intelligent recommendation workflow.
+</p>
+
+<p><strong>Technology Stack</strong></p>
+
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
 
 <br>
 
-<b>Machine Learning</b>
-
-<br>
-
-<sub>Predictive Models</sub>
+<a href="YOUR_ECO_PROJECT_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td align="center" width="180">
+</tr>
 
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55"/>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎓 ScholarTrack</h3>
+
+<p>
+Student management and academic analytics platform featuring dashboards, database management, academic performance analytics, and predictive insights.
+</p>
+
+<p><strong>Technology Stack</strong></p>
+
+<p>
+<code>Python</code>
+<code>Flask</code>
+<code>MySQL</code>
+<code>JavaScript</code>
+<code>Bootstrap</code>
+<code>Chart.js</code>
+</p>
 
 <br>
 
-<b>Data Analysis</b>
-
-<br>
-
-<sub>EDA & Insights</sub>
+<a href="YOUR_SCHOLARTRACK_PROJECT_URL">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td align="center" width="180">
+<td width="50%" valign="top">
 
-<img src="https://img.icons8.com/fluency/96/robot-2.png" width="55"/>
+<h3>🤖 Machine Learning Lab</h3>
 
-<br>
+<p>
+A collection of machine learning experiments, data analysis workflows, predictive models, and practical AI applications.
+</p>
 
-<b>AI Applications</b>
+<p><strong>Focus Areas</strong></p>
 
-<br>
-
-<sub>Intelligent Systems</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<img src="https://img.icons8.com/fluency/96/amazon-web-services.png" width="55"/>
-
-<br>
-
-<b>Cloud AI/ML</b>
+<p>
+<code>Machine Learning</code>
+<code>Data Analysis</code>
+<code>Python</code>
+<code>AI</code>
+</p>
 
 <br>
 
-<sub>AWS Workflows</sub>
+<a href="YOUR_GITHUB_REPOSITORIES_URL">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
 
 </td>
 
 </tr>
 </table>
 
-</div>
+<hr>
 
-### Core Machine Learning Skills
+<h2>EXPERIENCE</h2>
 
-<div align="center">
+<h3>Trainee Intern — Talent Trek</h3>
 
-`Supervised Learning`
+<p><strong>Jun 2025 – Sep 2025</strong></p>
 
-`Regression`
+<ul>
+<li>Worked with AI/ML concepts and AWS AI/ML services.</li>
+<li>Explored practical machine learning workflows and cloud-based AI technologies.</li>
+<li>Gained exposure to applying AI/ML concepts in practical environments.</li>
+</ul>
 
-`Classification`
+<h3>AI & ML Intern — Brainwave Matrix Solutions</h3>
 
-`Data Preprocessing`
+<p><strong>Jun 2025 – Jul 2025</strong></p>
 
-`Feature Engineering`
+<ul>
+<li>Worked on artificial intelligence and machine learning concepts.</li>
+<li>Applied Python-based approaches to machine learning workflows.</li>
+<li>Gained practical exposure to ML development and experimentation.</li>
+</ul>
 
-`Feature Scaling`
+<h3>Android Developer Virtual Intern — EduSkills Foundation</h3>
 
-`Exploratory Data Analysis`
+<p><strong>Oct 2025 – Dec 2025</strong></p>
 
-`Model Evaluation`
+<ul>
+<li>Completed a virtual internship focused on Android application development.</li>
+<li>Gained exposure to mobile application development workflows.</li>
+<li>Worked with Android development concepts and tools.</li>
+</ul>
 
-</div>
+<hr>
 
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
-
-</p>
-
-<div align="center">
-
-| Technology | Level of Focus |
-|:---:|:---|
-| 🐍 **Python** | Primary Programming Language |
-| ☕ **Java** | Programming & Problem Solving |
-| 🟨 **JavaScript** | Web Development |
-| 🗄️ **SQL** | Database & Data Management |
-
-</div>
-
----
-
-## 🤖 Machine Learning & Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Pandas-1E3A5F?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Scikit--learn-2563EB?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
-
-</div>
-
----
-
-## 🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,html,css,bootstrap" />
-
-</p>
-
-<div align="center">
-
-`Flask` · `HTML5` · `CSS3` · `JavaScript` · `Bootstrap` · `Chart.js`
-
-</div>
-
----
-
-## ☁️ Database, Cloud & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,aws,git,github,jupyter,vscode" />
-
-</p>
-
-<div align="center">
-
-**Database:** MySQL
-
-**Cloud:** AWS AI/ML Services
-
-**Tools:** Git · GitHub · Jupyter Notebook · Google Colab · VS Code
-
-</div>
-
----
-
-# 💼 Experience
-
-### 🔹 AI/ML Trainee Intern — Talent Trek
-**AWS Partner Network** · *Jun 2025 – Sep 2025*
-
-- Worked with **Python and AWS AI/ML services** in practical machine learning workflows.
-- Performed data preprocessing and feature engineering.
-- Applied model evaluation techniques to machine learning tasks.
-- Gained practical exposure to cloud-based AI/ML services.
-
----
-
-### 🔹 AI & ML Intern — Brainwave Matrix Solutions
-**Jun 2025 – Jul 2025**
-
-- Worked on practical machine learning workflows using Python.
-- Applied data preprocessing and machine learning techniques to project datasets.
-- Worked with model development and evaluation workflows.
-- Strengthened practical understanding of machine learning pipelines.
-
----
-
-### 🔹 Android Developer Virtual Intern — EduSkills Foundation
-**Google for Developers** · *Oct 2025 – Dec 2025*
-
-- Completed a virtual internship focused on Android application development.
-- Worked with Android development concepts and application workflows.
-- Strengthened software development and problem-solving skills.
-
----
-
-# 🚀 Featured Projects
-
-## 🏠 House Price Prediction
-
-A supervised machine learning project for predicting residential property prices using structured housing data.
-
-### Technologies
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib`
-
-### Key Areas
-
-- Data preprocessing
-- Feature scaling
-- Regression
-- Exploratory data analysis
-- Model evaluation
-
----
-
-## 🎓 ScholarTrack
-
-A **Student Management & Academic Analytics platform** combining student information management with academic performance analytics.
-
-### Technologies
-
-`Python` · `Flask` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Bootstrap` · `Chart.js`
-
-### Key Features
-
-- Modular student, faculty, and admin architecture
-- Student information management
-- Academic record management
-- Attendance and performance tracking
-- Interactive analytics dashboards
-- AI-based academic success prediction
-
----
-
-## 🌱 Eco-Friendly Product Recommendation System
-
-A recommendation-based application designed to help users discover **more sustainable product alternatives**.
-
-### Technologies
-
-`Python` · `Flask` · `HTML` · `CSS` · `JavaScript`
-
-### Focus
-
-- Recommendation systems
-- Sustainable product discovery
-- Web application development
-- User-oriented recommendations
-
----
-
-# 🏆 Achievements & Hackathons
-
-<div align="center">
-
-| 🏆 Event | 🎯 Role |
-|:---|:---:|
-| **Smart India Hackathon 2025** | Team Lead |
-| **Vegacode Hackathon** | Participant |
-| **Prakalp Agentic AI Hackathon** | Participant |
-| **Generative AI Hackathon** | Participant |
-
-</div>
-
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| Certification | Organization |
-|:---|:---:|
-| Artificial Intelligence Fundamentals | **IBM** |
-| OCI 2025 AI Foundations Associate | **Oracle** |
-| Career Essentials in Generative AI | **Microsoft & LinkedIn** |
-| Python Essentials 1 & 2 | **Cisco Networking Academy** |
-| Certified Coursework | **NPTEL** |
-
-</div>
-
----
-
-# 🔭 Currently Exploring
-
-<div align="center">
+<h2>CERTIFICATIONS & LEARNING</h2>
 
 <table>
+<tr>
+<th>Certification / Training</th>
+<th>Area</th>
+</tr>
 
 <tr>
+<td>Oracle Cloud Infrastructure 2025 AI Foundations Associate</td>
+<td>AI / Cloud</td>
+</tr>
 
-<td align="center" width="180">
+<tr>
+<td>IBM AI Fundamentals</td>
+<td>Artificial Intelligence</td>
+</tr>
 
-<img src="https://img.icons8.com/fluency/96/brain.png" width="50"/>
+<tr>
+<td>Cisco Python Essentials</td>
+<td>Python</td>
+</tr>
 
-<br><br>
+<tr>
+<td>Microsoft LinkedIn Generative AI</td>
+<td>Generative AI</td>
+</tr>
 
-<b>Advanced ML</b>
+<tr>
+<td>NPTEL</td>
+<td>Computer Science</td>
+</tr>
 
-<br>
-
-<sub>Model Evaluation</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<img src="https://img.icons8.com/fluency/96/robot-2.png" width="50"/>
-
-<br><br>
-
-<b>Agentic AI</b>
-
-<br>
-
-<sub>AI Agents</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="50"/>
-
-<br><br>
-
-<b>Generative AI</b>
-
-<br>
-
-<sub>LLM Applications</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<img src="https://img.icons8.com/fluency/96/amazon-web-services.png" width="50"/>
-
-<br><br>
-
-<b>Cloud AI/ML</b>
-
-<br>
-
-<sub>AWS Workflows</sub>
-
-</td>
-
-<td align="center" width="180">
-
-<img src="https://img.icons8.com/fluency/96/rocket.png" width="50"/>
-
-<br><br>
-
-<b>ML Deployment</b>
-
-<br>
-
-<sub>Production ML</sub>
-
-</td>
-
+<tr>
+<td>AWS AI/ML Training</td>
+<td>Cloud AI / ML</td>
 </tr>
 
 </table>
 
-</div>
+<hr>
 
-### Current Focus
-
-<div align="center">
-
-🧠 **Advanced Machine Learning**
-
-&nbsp; • &nbsp;
-
-🤖 **Agentic AI Systems**
-
-&nbsp; • &nbsp;
-
-✨ **Generative AI Applications**
-
-<br><br>
-
-☁️ **AWS-based ML Workflows**
-
-&nbsp; • &nbsp;
-
-🚀 **Model Deployment**
-
-&nbsp; • &nbsp;
-
-📊 **Data Analysis & Evaluation**
-
-</div>
-
----
-
-# 📊 GitHub Analytics
+<h2>GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<!-- GitHub Stats -->
-
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JanardhanThrishankSingumahanthi&theme=github_dark"
-  height="180"
-  alt="GitHub Statistics"
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&rank_icon=github"
 />
 
-&nbsp;&nbsp;
-
-<!-- Top Languages -->
-
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JanardhanThrishankSingumahanthi&theme=github_dark"
-  height="180"
-  alt="Top Languages"
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
 />
-
-<br><br>
-
-<!-- Profile Details / Contribution Activity -->
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JanardhanThrishankSingumahanthi&theme=github_dark"
-  width="90%"
-  alt="GitHub Contribution Activity"
-/>
-
-<br><br>
-
-<!-- GitHub Streak -->
-
-<img
-  src="https://streak-stats.demolab.com/?user=JanardhanThrishankSingumahanthi&theme=dark&hide_border=true&background=0F172A&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"
-  height="180"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-I'm interested in collaborating on:
-
-<div align="center">
-
-🤖 **Artificial Intelligence & Machine Learning**
-
-🔬 **Applied ML Research**
-
-✨ **Generative & Agentic AI**
-
-🌐 **AI-powered Applications**
-
-💻 **Open Source Projects**
-
-🏆 **Hackathons & Technical Competitions**
 
 </div>
 
 <br>
 
-If you're working on something interesting in **AI, Machine Learning, or software development**, feel free to connect.
+<div align="center">
+
+<img
+width="90%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+/>
+
+</div>
+
+<hr>
+
+<h2>EDUCATION</h2>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/janardhan-singumahanthi">
-<img
-  src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"
-/>
+<h3>B.Tech — Computer Science & Engineering (AI & ML)</h3>
+
+<p>
+<strong>Ramachandra College of Engineering, Eluru</strong>
+</p>
+
+<p>
+2023 – 2027
+</p>
+
+</div>
+
+<hr>
+
+<h2>CURRENT FOCUS</h2>
+
+<div align="center">
+
+<h3>MACHINE LEARNING</h3>
+
+<p>
+<code>Supervised Learning</code>
+<code>Model Evaluation</code>
+<code>Data Preprocessing</code>
+</p>
+
+<h3>ARTIFICIAL INTELLIGENCE</h3>
+
+<p>
+<code>Artificial Intelligence</code>
+<code>Generative AI</code>
+<code>Intelligent Applications</code>
+</p>
+
+<h3>DEVELOPMENT</h3>
+
+<p>
+<code>Python</code>
+<code>SQL</code>
+<code>Flask</code>
+<code>Java</code>
+</p>
+
+<h3>DATA</h3>
+
+<p>
+<code>Pandas</code>
+<code>NumPy</code>
+<code>Matplotlib</code>
+<code>Data Analysis</code>
+</p>
+
+</div>
+
+<hr>
+
+<h2>CONNECT WITH ME</h2>
+
+<div align="center">
+
+<p>
+I'm interested in Machine Learning, Artificial Intelligence, Data Analysis, and building practical technology solutions.
+</p>
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-&nbsp;
-
-<a href="mailto:janardhanthrisank123@gmail.com">
-<img
-  src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"
-/>
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-&nbsp;
-
-<a href="https://github.com/JanardhanThrishankSingumahanthi">
-<img
-  src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"
-/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF">
 </a>
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
-
-</div>
-
----
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A5F,100:0F172A&height=120&section=footer"
-  width="100%"
-/>
+<sub>Building · Learning · Improving</sub>
 
 </div>
